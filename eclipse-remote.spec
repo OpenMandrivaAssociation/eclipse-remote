@@ -1,10 +1,11 @@
+%{?_javapackages_macros:%_javapackages_macros}
 # Release has not been tagged, but this commit comprised the release
 # See https://bugs.eclipse.org/bugs/show_bug.cgi?id=445422
 %global git_tag 137f306ed56470a5be5367b49df5422b2ac83c9a
 
 Name:           eclipse-remote
 Version:        1.1.0
-Release:        1.1
+Release:        1.2
 Group:		Development/Java
 Summary:        Eclipse Remote Services plug-in
 License:        EPL
