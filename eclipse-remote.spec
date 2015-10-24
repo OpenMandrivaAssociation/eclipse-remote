@@ -19,6 +19,8 @@ BuildRequires:    tycho-extras
 BuildRequires:    feclipse-maven-plugin
 BuildRequires:    jsch
 BuildRequires:    eclipse-pde >= 1:4.3.1
+BuildRequires:    java-1.7.0-openjdk-devel
+BuildConflicts:	  java-1.8.0-openjdk-devel
 
 Requires:         jsch
 Requires:         eclipse-platform >= 1:4.3.1
