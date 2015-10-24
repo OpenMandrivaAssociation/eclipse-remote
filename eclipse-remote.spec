@@ -4,7 +4,7 @@
 
 Name:           eclipse-remote
 Version:        1.0.0
-Release:        0.4.git19f4d9%{?dist}
+Release:        0.5.git19f4d9
 Summary:        Eclipse Remote Services plug-in
 License:        EPL
 URL:            https://www.eclipse.org/ptp/
