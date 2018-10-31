@@ -5,7 +5,7 @@
 
 Name:           eclipse-remote
 Version:        1.1.0
-Release:        1.3
+Release:        1.4
 Group:		Development/Java
 Summary:        Eclipse Remote Services plug-in
 License:        EPL
